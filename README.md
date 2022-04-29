@@ -1,6 +1,6 @@
 # torchbio
 
-PyTorch utilities for AI application in biology :DNA:.
+PyTorch utilities for AI application in biology :dna:.
 
 ## Examples
 

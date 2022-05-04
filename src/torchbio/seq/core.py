@@ -1,4 +1,5 @@
 import torch
+import torchbio
 
 from Bio import SeqIO
 from . import const
